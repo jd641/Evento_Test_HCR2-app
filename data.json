@@ -1,76 +1,64 @@
 [
   {
-    "name": "Airbone & Accident Prone",
+    "name": "Break-neck Bill",
     "id": "0",
     "available": true,
     "entries": [{
-        "name": "vereshchak",
-        "url": "https://www.youtube-nocookie.com/embed/y9V00H7G5xk?si=H9UHI2oH8IznoGOv&amp;start=280",
+        "name": "Vereshchak",
+        "url": "https://www.youtube.com/embed/emKy-0KjVjk?si=HB5rQKRz-uTQBG2Q&amp;start=12", 
         "vehicles": {
-          "1": 20,
-          "2": 27,
-          "3": 6,
-          "4": 34
+          "1": 14,
+          "2": 29,
+          "3": 27,
+          "4": 9,
+          "5": 12
         },
         "pieces":{
-         "1": [19, 14, 17, 3],
-          "2": [14, 3, 19, 7],
-          "3": [3, 11, 12, 10],
-          "4": [11, 3, 16]
+         "1": [19, 7, 12],
+          "2": [19, 3, 14],
+          "3": [3, 19, 8],
+          "4": [3, 14, 19],
+          "5": [3, 14, 19]
         }
       },
      {
         "name": "Vokope YT",
-        "url": "https://www.youtube.com/embed/A_KeutlQZJY?si=s7fa1wBSBTDS4d68&amp;start=20",
+        "url": "https://www.youtube.com/embed/axo6fdOc0E8?si=_DGfwOqNlUypXSvn&amp;start=160",
         "vehicles": {
-          "1": 34,
-          "2": 20,
-          "3": 6,
-          "4": 27
+          "1": 14,
+          "2": 29,
+          "3": 9,
+          "4": 31,
+          "5": 12
         },
         "pieces":{
-         "1": [14, 1, 19],
-          "2": [7, 3, 14, 19],
-          "3": [10, 11, 12, 3],
-          "4": [3, 11, 16, 17]
-        }
-      },
-      {
-        "name": "Zorro",
-        "url": "https://www.youtube.com/embed/jHxJRd_WSw8?si=Rn6dGxJmdR4Ozoc0&amp;start=5" ,
-        "vehicles": {
-          "1": 20,
-          "2": 27,
-          "3": 6,
-          "4": 34
-        },
-        "pieces":{
-         "1": [1, 14, 19, 17],
-          "2": [7, 14, 3, 19],
-          "3": [12, 11, 10, 3],
-          "4": [3, 16, 11]
+         "1": [7, 17, 19, 12],
+          "2": [17, 3, 1, 19],
+          "3": [8, 3, 7, 19],
+          "4": [12, 3, 7, 11],
+          "5": [12, 3, 7, 11]
         }
       }
     ]
   },
   {
-    "name": "Vagabolt",
+    "name": "",
     "id": "1",
-    "available": true,
+    "available": false,
     "entries": [{
-        "name": "Lan9118",
-        "url": "https://www.youtube.com/embed/Fo_jakTSFO4?si=BOwa_r7z0IBudZK2&amp;start=34",
+        "name": "",
+        "url": "",
         "vehicles": {
-          "1": 24,
-          "2": 33,
-          "3": 31,
-          "4": 4
+          "1": 14,
+          "2": 6,
+          "3": 33,
+          "4": 29
         },
         "pieces":{
-         "1": [19, 17, 14, 3],
-          "2": [19, 14, 7, 3],
-          "3": [19, 11, 12, 7],
-          "4": [12, 11, 3]
+         "1": [7, 19, 12],
+          "2": [10, 11, 7, 12],
+          "3": [7, 19, 3],
+          "4": [7, 19, 14]
         }
       }
     ]
