@@ -42,25 +42,25 @@
     ]
   },
   {
-    "name": "",
+    "name": "Ground control",
     "id": "1",
-    "available": false,
+    "available": true,
     "entries": [{
-        "name": "",
-        "url": "",
+        "name": "Dani®",
+        "url": "https://www.youtube.com/embed/YnzOaYgR2QQ?si=6W_bTWFTB30Igd_4&amp;start=53",
         "vehicles": {
-          "1": 14,
-          "2": 6,
-          "3": 33,
-          "4": 29
+          "1": 20,
+          "2": 10,
+          "3": 7,
+          "4": 34
         },
         "pieces":{
-         "1": [7, 19, 12],
-          "2": [10, 11, 7, 12],
-          "3": [7, 19, 3],
-          "4": [7, 19, 14]
+         "1": [7, 19, 11],
+          "2": [19, 7, 14],
+          "3": [8, 3, 11],
+          "4": [3, 19, 6]
         }
       }
     ]
-    }
+  }
 ]
